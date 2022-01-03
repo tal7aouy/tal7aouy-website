@@ -1,15 +1,13 @@
 # tal7aouy-homepage
 
-# Screenshot
-![Screenshot - homepage](/screen.png)
-
-
 # Stack
-- Vue.js 
+
+- Vue.js
 - tailwind.css
 - Vuex
 
 # Project Structure
+
 ```bash
 $PROJECT_ROOT
 │   # Page files
