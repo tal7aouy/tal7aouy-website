@@ -28,13 +28,11 @@ export default createStore({
         { name: 'Bootstrap', level: 80 },
         { name: 'Jquery', level: 70 },
         { name: 'PHPUnit', level: 70 },
-        { name: 'Jest', level: 80 },
       ],
       tools: [
         { name: 'git(hub)' },
         { name: 'Merise' },
         { name: 'UML' },
-        { name: 'Photoshop' },
         { name: 'Responsive Design' },
         { name: 'Mysql' },
         { name: 'MongoDB' },
@@ -186,8 +184,11 @@ export default createStore({
         endDate: 'Jun 2020',
         roles: [
           {
+            description: 'Developed and maintained restaurant web application.',
+          },
+          {
             description:
-              ' Developed and maintained restaurant web application.',
+              'Developed,tested and maintained web applications that work on various devices and browsers.',
           },
         ],
       },
