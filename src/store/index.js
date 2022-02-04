@@ -173,6 +173,23 @@ export default createStore({
           { name: '#VueJs' },
         ],
       },
+      {
+        name: 'Aveta',
+        description:
+          'Convert long numbers into abbreviated and human-readable strings on an easy way.',
+        link: 'https://github.com/tal7aouy/aveta',
+        startDate: 'Jan 10, 2022',
+        endDate: 'Jan 28, 2022',
+        developer: 'tal7aouy',
+        tags: [
+          { name: '#opensource' },
+          { name: '#Ts' },
+          { name: '#Typescript' },
+          { name: '#Long Numbers' },
+          { name: '#convert' },
+          { name: '#human-readable' },
+        ],
+      },
     ],
     events: [
       {
