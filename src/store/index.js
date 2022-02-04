@@ -35,6 +35,7 @@ export default createStore({
         { name: 'UML' },
         { name: 'Responsive Design' },
         { name: 'Mysql' },
+        { name: 'MongoDB' },
         { name: 'Docker' },
       ],
     },
