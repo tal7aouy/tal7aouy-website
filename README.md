@@ -2,9 +2,10 @@
 
 # Stack
 
-- Vue.js
-- tailwind.css
+- VueJs
+- tailwindCss
 - Vuex
+- Vue Router
 
 # Project Structure
 
