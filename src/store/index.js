@@ -8,7 +8,7 @@ export default createStore({
       birthDay: new Date(1997, 5, 27),
       startDescription: "Hello I’m M'hammed",
       description:
-        ', a Full Stack  developer, Morocco.  #OpenSource enthusiast with industry experience building websites and web applications. I specialize in Laravel, Vue.js & Tailwind.css! ',
+        ', a Full Stack PHP developer, Morocco.  #OpenSource enthusiast with industry experience building websites and web applications. I specialize in Laravel, Vue.js & Tailwind.css! ',
     },
     technologies: {
       programming: [
