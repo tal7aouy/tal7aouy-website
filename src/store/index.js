@@ -188,6 +188,23 @@ export default createStore({
           { name: '#human-readable' },
         ],
       },
+      {
+        name: 'vscode-icons',
+        description:
+          'This icon theme is made to be used with Visual Studio Code. .',
+        link: 'https://github.com/tal7aouy/vscode-icons',
+        startDate: 'Jan 20, 2022',
+        endDate: 'Jan 25, 2022',
+        developer: 'tal7aouy',
+        tags: [
+          { name: '#opensource' },
+          { name: '#Ts' },
+          { name: '#Typescript' },
+          { name: '#vscode icons' },
+          { name: '#icons' },
+          { name: '#visual studio code' },
+        ],
+      },
     ],
     events: [
       {
