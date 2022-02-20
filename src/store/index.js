@@ -28,10 +28,10 @@ export default createStore({
         { name: 'Bootstrap', level: 80 },
         { name: 'Jquery', level: 70 },
         { name: 'PHPUnit', level: 70 },
+        { name: 'Jest', level: 70 },
       ],
       tools: [
         { name: 'git(hub)' },
-        { name: 'Merise' },
         { name: 'UML' },
         { name: 'Mysql' },
         { name: 'Docker' },
