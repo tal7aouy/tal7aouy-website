@@ -272,7 +272,7 @@ export default createStore({
         ],
       },
       {
-        name: "fiverr & Khmasat",
+        name: "fiverr & Khamsat",
         description: "I working as a  PHP developer!",
         role: "Full Stack Developer ",
         type: "Freelance",
